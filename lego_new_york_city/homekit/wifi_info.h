@@ -9,8 +9,8 @@
 #include <WiFi.h>
 #endif
 
-const char * SSID = "Livebox-E8B2";
-const char * PASSWORD = "QoDXChmz4zXSiuKwkU";
+const char * SSID = "XXXXX";
+const char * PASSWORD = "XXXXX";
 
 //Objet WebServer
 ESP8266WebServer serverWeb(80);
